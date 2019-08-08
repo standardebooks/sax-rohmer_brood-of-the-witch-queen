@@ -27,22 +27,20 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Brood of the Witch Queen</dc:title>
-		<meta property="file-as" refines="#title">Brood of the Witch Queen</meta>
+		<dc:title id="title">Brood of the Witch-Queen</dc:title>
+		<meta property="file-as" refines="#title">Brood of the Witch-Queen</meta>
 		<dc:subject id="subject-1">Witches -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113548</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19706</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brood_of_the_Witch_Queen</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brood_of_the_Witch-Queen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sax-rohmer_brood-of-the-witch-queen</meta>
 		<dc:creator id="author">Sax Rohmer</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
