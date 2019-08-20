@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<title>The titlepage for the Standard Ebooks edition of Brood of the Witch Queen, by Sax Rohmer</title>
+	<title>The titlepage for the Standard Ebooks edition of Brood of the Witch-Queen, by Sax Rohmer</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -17,6 +17,6 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">BROOD</text>
-	<text class="title" x="700" y="230">OF THE WITCH QUEEN</text>
+	<text class="title" x="700" y="230">OF THE WITCH-QUEEN</text>
 	<text class="author" x="700" y="390">SAX ROHMER</text>
 </svg>
