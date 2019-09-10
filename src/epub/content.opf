@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-09-10T23:52:50Z</dc:date>
+		<meta property="dcterms:modified">2019-09-10T23:52:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,15 +36,15 @@
 		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">A father and son duo investigate a man who is wielding ancient Egyptian magic.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Perhaps best known for creating the character &lt;a href="https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu"&gt;Fu-Manchu&lt;/a&gt;, Sax Rohmer is also known for his works involving the supernatural. This novel follows Robert Cairn, his father, &lt;abbr&gt;Dr.&lt;/abbr&gt; Bruce Cairn, and their suspicion of one Antony Ferrara.&lt;/p&gt;
-			&lt;p&gt;After witnessing the strange and violent death of a swan, Robert Cairn suspects that Ferrara may be involved with the death of the bird. Soon after two murders, &lt;abbr&gt;Dr.&lt;/abbr&gt; Bruce Cairn arrives in London and warns Robert that he suspects Ferrara is using ancient Egyptian magic to accomplish his evil deeds. After a mystical attack on Robert, &lt;abbr&gt;Dr.&lt;/abbr&gt; Cairn and his son become involved in a series of supernatural events as they work to prevent Antony Ferrara from inflicting his dark magic on more victims.&lt;/p&gt;
-			&lt;p&gt;Like many of his works, Rohmer includes exotic locations in this novel; first set in London, the action soon moves to the pyramids of Egypt as the father and son duo track down Ferrara. Having received both success and notoriety from Fu-Manchu, Rohmer has been given praise for &lt;i&gt;Brood of the Witch-Queen&lt;/i&gt;, such as when &lt;abbr class="name"&gt;H. P.&lt;/abbr&gt; Lovecraft favorably compared it to Bram Stoker’s &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Perhaps best known for creating the character &lt;a href="https://standardebooks.org/ebooks/sax-rohmer/the-insidious-dr-fu-manchu"&gt;Fu-Manchu&lt;/a&gt;, Sax Rohmer is also known for his works involving the supernatural. This novel follows Robert Cairn, his father, Dr. Bruce Cairn, and their suspicion of one Antony Ferrara.&lt;/p&gt;
+			&lt;p&gt;After witnessing the strange and violent death of a swan, Robert Cairn suspects that Ferrara may be involved with the death of the bird. Soon after two murders, Dr. Bruce Cairn arrives in London and warns Robert that he suspects Ferrara is using ancient Egyptian magic to accomplish his evil deeds. After a mystical attack on Robert, Dr. Cairn and his son become involved in a series of supernatural events as they work to prevent Antony Ferrara from inflicting his dark magic on more victims.&lt;/p&gt;
+			&lt;p&gt;Like many of his works, Rohmer includes exotic locations in this novel; first set in London, the action soon moves to the pyramids of Egypt as the father and son duo track down Ferrara. Having received both success and notoriety from Fu-Manchu, Rohmer has been given praise for &lt;i&gt;Brood of the Witch-Queen&lt;/i&gt;, such as when H. P. Lovecraft favorably compared it to Bram Stoker’s &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19706</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID43dc891c5fc08</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">65263</meta>
+		<meta property="se:reading-ease.flesch">73.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brood_of_the_Witch-Queen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sax-rohmer_brood-of-the-witch-queen</meta>
 		<dc:creator id="author">Sax Rohmer</dc:creator>
@@ -79,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
