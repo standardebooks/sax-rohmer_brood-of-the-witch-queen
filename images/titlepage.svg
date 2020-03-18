@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of Brood of the Witch-Queen, by Sax Rohmer</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
