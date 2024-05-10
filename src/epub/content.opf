@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/19706</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID43dc891c5fc08</dc:source>
 		<meta property="se:word-count">65263</meta>
-		<meta property="se:reading-ease.flesch">73.17</meta>
+		<meta property="se:reading-ease.flesch">73.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brood_of_the_Witch-Queen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sax-rohmer_brood-of-the-witch-queen</meta>
 		<dc:creator id="author">Sax Rohmer</dc:creator>
