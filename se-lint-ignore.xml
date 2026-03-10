@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-064">
+			<line>39</line>
 			<reason>Matched text is not an actual book title.</reason>
 		</ignore>
 	</file>
